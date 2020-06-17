@@ -11,5 +11,5 @@ Intersemestral 2020
 **Objetivos:** 
 *   Familiarizarse con el ambiente de trabajo Jupyter Notebook
 *   Resolver un problema real de regresión siguiendo el proceso de aprendizaje a partir de datos.
-<br>
+
 **Datos utiizados:** kc_house_data
