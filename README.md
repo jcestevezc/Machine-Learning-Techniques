@@ -10,3 +10,9 @@ Intersemestral 2020
 **Objetivos:** 
 *   Familiarizarse con el ambiente de trabajo Jupyter Notebook
 *   Resolver un problema real de regresión siguiendo el proceso de aprendizaje a partir de datos.
+
+### Laboratorio 2: Regresión Lineal Regularizada y Regresión Logística
+**Objetivos:** 
+*   Aprender los diferentes tipos de regularizadores dentro de una Regresión.
+*   Aprender a entonar los hiperparámetros de un modelo.
+*   Resolver un problema real de probabilidad según unas variables establecidas.
