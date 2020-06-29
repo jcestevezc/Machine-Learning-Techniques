@@ -16,3 +16,9 @@ Intersemestral 2020
 *   Aprender los diferentes tipos de regularizadores dentro de una Regresión.
 *   Aprender a entonar los hiperparámetros de un modelo.
 *   Resolver un problema real de probabilidad según unas variables establecidas.
+
+### Laboratorio 3: Naive Bayes y Support Vector Machines
+**Objetivos:** 
+*   Analizar conjutos de datos no estructurados
+*   Aprender diferentes pre-procesamiento de textos.
+*   Identificar el mejor modelo para un problema desbalanceado.
