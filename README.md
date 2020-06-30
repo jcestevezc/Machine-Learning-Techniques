@@ -17,7 +17,11 @@ Intersemestral 2020
 *   Aprender a entonar los hiperparámetros de un modelo.
 *   Resolver un problema real de probabilidad según unas variables establecidas.
 
-### Laboratorio 3: Naive Bayes y Support Vector Machines
+### Laboratorio 3: Support Vector Machines
+**Objetivos:** 
+
+
+### Laboratorio 4: Naive Bayes y Redes Neuronales Superficiales
 **Objetivos:** 
 *   Analizar conjutos de datos no estructurados
 *   Aprender diferentes pre-procesamiento de textos.
