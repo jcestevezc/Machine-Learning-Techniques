@@ -20,6 +20,9 @@ Intersemestral 2020
 ### Laboratorio 3: Support Vector Machines
 **Objetivos:** 
 
+*   Consolidar mediante la experimientación conceptos dados en clase en relación al algoritmo SVM.
+*   Aplicación del algoritmo SVM para clasificación de imagenes.
+*   Aplicación de técnicas de machine learning desde cero a partir de dos problematicas establecidas.
 
 ### Laboratorio 4: Naive Bayes y Redes Neuronales Superficiales
 **Objetivos:** 
