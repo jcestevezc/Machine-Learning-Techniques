@@ -21,8 +21,8 @@ No.;Name;Type ;Description
 20;dwin;integer;Destination TCP window advertisement value
 21;stcpb;integer;Source TCP base sequence number
 22;dtcpb;integer;Destination TCP base sequence number
-23;smeansz;integer;Mean of the ?ow packet size transmitted by the src 
-24;dmeansz;integer;Mean of the ?ow packet size transmitted by the dst 
+23;smeansz;integer;Mean of the row packet size transmitted by the src 
+24;dmeansz;integer;Mean of the row packet size transmitted by the dst 
 25;trans_depth;integer;Represents the pipelined depth into the connection of http request/response transaction
 26;res_bdy_len;integer;Actual uncompressed content size of the data transferred from the server’s http service.
 27;Sjit;Float;Source jitter (mSec)
