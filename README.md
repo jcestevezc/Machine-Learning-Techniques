@@ -24,8 +24,8 @@ Intersemestral 2020
 *   Aplicar el algoritmo SVM para clasificación de imagenes.
 *   Aplicar técnicas de machine learning desde cero a partir de dos problematicas establecidas.
 
-### Laboratorio 4: Naive Bayes y Redes Neuronales Superficiales
+### Laboratorio 4: Naive Bayes y Ensemblers
 **Objetivos:** 
 *   Analizar conjutos de datos no estructurados
-*   Aprender diferentes pre-procesamiento de textos.
+*   Aplicar diferentes técnicas de pre-procesamiento de textos.
 *   Identificar el mejor modelo para un problema desbalanceado.

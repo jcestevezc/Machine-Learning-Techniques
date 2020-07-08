@@ -24,7 +24,7 @@ No.;Name;Type ;Description
 23;smeansz;integer;Mean of the row packet size transmitted by the src 
 24;dmeansz;integer;Mean of the row packet size transmitted by the dst 
 25;trans_depth;integer;Represents the pipelined depth into the connection of http request/response transaction
-26;res_bdy_len;integer;Actual uncompressed content size of the data transferred from the server’s http service.
+26;res_bdy_len;integer;Actual uncompressed content size of the data transferred from the serverï¿½s http service.
 27;Sjit;Float;Source jitter (mSec)
 28;Djit;Float;Destination jitter (mSec)
 29;Stime;Timestamp;record start time
