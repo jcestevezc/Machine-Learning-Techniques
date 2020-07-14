@@ -8,7 +8,7 @@ Intersemestral 2020
 
 ### Laboratorio 1: Regresión Lineal y Polinomial
 **Objetivos:** 
-*   Familiarizarse con el ambiente de trabajo Jupyter Notebook
+*   Familiarizarse con el ambiente de trabajo Jupyter Notebook.
 *   Resolver un problema real de regresión siguiendo el proceso de aprendizaje a partir de datos.
 
 ### Laboratorio 2: Regresión Lineal Regularizada y Regresión Logística
@@ -26,6 +26,12 @@ Intersemestral 2020
 
 ### Laboratorio 4: Naive Bayes y Ensemblers
 **Objetivos:** 
-*   Analizar conjutos de datos no estructurados
+*   Analizar conjutos de datos no estructurados.
 *   Aplicar diferentes técnicas de pre-procesamiento de textos.
 *   Identificar el mejor modelo para un problema desbalanceado.
+
+### Laboratorio 5: Redes Neuronales Lineales
+**Objetivos:** 
+*   Analizar la estructura de una Red Neuronal.
+*   Construir un modelo a través de `Keras` y `TensorFlow`.
+*   Realizar la búsqueda de hiperparámetros para ajustar una Red Neuronal.
