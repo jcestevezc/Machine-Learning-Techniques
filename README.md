@@ -30,7 +30,7 @@ Intersemestral 2020
 *   Aplicar diferentes técnicas de pre-procesamiento de textos.
 *   Identificar el mejor modelo para un problema desbalanceado.
 
-### Laboratorio 5: Redes Neuronales Lineales
+### Laboratorio 5: Redes Neuronales Lineales - MLP
 **Objetivos:** 
 *   Analizar la estructura de una Red Neuronal.
 *   Construir un modelo a través de `Keras` y `TensorFlow`.
