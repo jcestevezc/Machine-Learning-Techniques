@@ -45,7 +45,7 @@ Intersemestral 2020
 
 ### Laboratorio 7: Redes Neuronales Recurrentes.
 **Objetivos:** 
-*   Analizar la aplicación de las técnicas de aprendizaje automático en un contexto real.
+*   Analizar la construcción de una Red Neuronal Recurrente.
 *   Ver la aplicación de la metodología CRISP-DM en un problema de minería de datos.
 *   Realizar una comparación de diferentes algoritmos para realizar predicciones.
 *   Automatizar el proceso de gestión de pedidos para una comercializadora.
